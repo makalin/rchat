@@ -25,8 +25,8 @@ Before running the application, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rust-ai-chat
-cd rust-ai-chat
+git clone https://github.com/makalin/rchat.git
+cd rchat
 ```
 
 2. Add the required dependencies to your `Cargo.toml`:
